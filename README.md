@@ -1,5 +1,13 @@
 TOPIC: AI adoption in education
 
+### Group 3
+| Team Member | Student ID |
+|------|-----|
+| Ethan Le | 122071251 |
+| Ihab Yehia | 125296251 |
+| Komil Rabiyev | 144801248 |
+| Lance Cadag | 132197237 |
+
 1. Introduction (15–20 seconds) - Ethan
 
 AI in education refers to the use of intelligent technologies—like chatbots, adaptive learning systems, and automated assessment—to support teaching and learning. It matters today because classrooms are becoming more digital, student needs are more diverse, and educators face heavier workloads than ever. A recent study found that over 60% of students already use AI tools for learning, showing just how rapidly adoption is growing.
@@ -47,8 +55,8 @@ All items must be committed to the group's GitHub repository:
 
 - Research notes and source documentation
 - Video script or presentation outline
-- Visual slides or demonstration materials (if used)
+- Visual slides or demonstration materials (if used) (PowerPoint)[https://seneca-my.sharepoint.com/:p:/g/personal/ele4_myseneca_ca/IQD1i9pld-R1TYP49WuV2ZLVAXiv5Zwjoi1sygIuait7AWk?e=8gK3U3]
 - Code examples or AI tool demonstrations (if applicable)
-- Final video YouTube link
+- Final video YouTube link 
 - Final discussion question for audience engagement
 - Evidence of collaboration (issues, commits, pull requests, etc.)
