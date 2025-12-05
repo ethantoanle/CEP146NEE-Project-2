@@ -26,9 +26,7 @@ AI tutors
 - 24/7 support for students
   
 3. Benefits of AI in Education (30–40 seconds) - Komil
-- Improved learning outcomes
-- More inclusive learning (accessibility tools)
-- Efficiency for teachers and institutions
+AI has significantly improved learning outcomes by providing personalized learning, adapting lessons to each student’s pace, and giving instant feedback that helps learners understand mistakes faster. It also creates a more inclusive learning environment through accessibility tools like speech-to-text, text-to-speech, real-time translation, AI captioning, and screen readers, making education accessible for students with disabilities or language barriers. For teachers and institutions, AI enhances efficiency by automating routine tasks such as grading, attendance, and content creation. It can also analyze student performance data to identify who needs extra help, allowing teachers to focus more on real instruction and support. Schools also benefit from AI-powered scheduling and resource management, making the entire system more organized and effective.
 
 4. Challenges & Risks (30–40 seconds) - Ihab
 AI can be really useful, but there are some challenges and risks we need to keep in mind.
