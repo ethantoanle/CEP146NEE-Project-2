@@ -18,26 +18,11 @@ Artificial Intelligence is taking over the era as it is becoming the norm of hav
 
 Another huge area is administrative automation. AI tools are taking over time-consuming tasks like grading, scheduling, and admissions screening. This frees educators to focus more on teaching and student engagement instead of paperwork.
 
-Finally, intelligent tutoring systems are giving students 24/7 access to extra help. These AI tutors can explain concepts, give instant feedback, and guide students step-by-step—almost like having a private tutor available anytime.
+Finally, intelligent tutoring systems are giving students 24/7 access to extra help. These AI tutors can explain concepts, give instant feedback, and guide students step-by-step—almost like having a private tutor available anyti
 
-
-**Source**
-- Research of University on San Diego on Artificial Intelligence in Education
-
-
-- Pick 2–3 areas to keep it concise. For example:
-- a. Personalized Learning
-- Adaptive learning platforms
-- Tailored content and pacing
-- b. Administrative Automation
-- Grading automation
-- Scheduling, admissions screening
-- Reducing teacher workload
-- c. Intelligent Tutoring Systems
-AI tutors
-- 24/7 support for students
 
 3. Benefits of AI in Education (30–40 seconds) - Komil
+
 4. AI has significantly improved learning outcomes by providing personalized learning, adapting lessons to each student’s pace, and giving instant feedback that helps learners understand mistakes faster. It also creates a more inclusive learning environment through accessibility tools like speech-to-text, text-to-speech, real-time translation, AI captioning, and screen readers, making education accessible for students with disabilities or language barriers. For teachers and institutions, AI enhances efficiency by automating routine tasks such as grading, attendance, and content creation. It can also analyze student performance data to identify who needs extra help, allowing teachers to focus more on real instruction and support. Schools also benefit from AI-powered scheduling and resource management, making the entire system more organized and effective.
 
 5. Challenges & Risks (30–40 seconds) - Ihab
