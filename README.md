@@ -23,37 +23,35 @@ Finally, intelligent tutoring systems are giving students 24/7 access to extra h
 
 3. Benefits of AI in Education (30–40 seconds) - Komil
 
-4. AI has significantly improved learning outcomes by providing personalized learning, adapting lessons to each student’s pace, and giving instant feedback that helps learners understand mistakes faster. It also creates a more inclusive learning environment through accessibility tools like speech-to-text, text-to-speech, real-time translation, AI captioning, and screen readers, making education accessible for students with disabilities or language barriers. For teachers and institutions, AI enhances efficiency by automating routine tasks such as grading, attendance, and content creation. It can also analyze student performance data to identify who needs extra help, allowing teachers to focus more on real instruction and support. Schools also benefit from AI-powered scheduling and resource management, making the entire system more organized and effective.
+AI has significantly improved learning outcomes by providing personalized learning, adapting lessons to each student’s pace, and giving instant feedback that helps learners understand mistakes faster. It also creates a more inclusive learning environment through accessibility tools like speech-to-text, text-to-speech, real-time translation, AI captioning, and screen readers, making education accessible for students with disabilities or language barriers. For teachers and institutions, AI enhances efficiency by automating routine tasks such as grading, attendance, and content creation. It can also analyze student performance data to identify who needs extra help, allowing teachers to focus more on real instruction and support. Schools also benefit from AI-powered scheduling and resource management, making the entire system more organized and effective.
 
-5. Challenges & Risks (30–40 seconds) - Ihab
+4. Challenges & Risks (30–40 seconds) - Ihab
 
 AI can be really useful, but there are some challenges and risks we need to keep in mind.
-First, there’s the issue of data privacy. AI systems often use personal information, especially in healthcare and education, which creates a risk of data being exposed or misused.
-
-Next is bias in algorithms. If the data used to train an AI system is biased, the AI can make unfair decisions — for example, rejecting someone for a loan or misjudging a student’s performance.
-
-Another challenge is over-reliance on technology. When people depend too much on AI, they may stop double-checking results or lose important skills.
-
-And finally, in schools, teacher training and readiness is a big concern. Teachers need proper support and training to use AI tools effectively, otherwise the technology won’t be used the right way.
+- First, there’s the issue of data privacy. AI systems often use personal information, especially in healthcare and education, which creates a risk of data being exposed or misused.
+- Next is bias in algorithms. If the data used to train an AI system is biased, the AI can make unfair decisions — for example, rejecting someone for a loan or misjudging a student’s performance.
+- Another challenge is over-reliance on technology. When people depend too much on AI, they may stop double-checking results or lose important skills.
+- And finally, in schools, teacher training and readiness is a big concern. Teachers need proper support and training to use AI tools effectively, otherwise the technology won’t be used the right way.
 
 5. Case Examples (20–30 seconds) - Ethan
 
 We’re already seeing powerful real-world examples. Duolingo uses AI to personalize language lessons and even generate practice conversations in real time. Khan Academy’s Khanmigo acts like an AI tutor, guiding students step-by-step while keeping learning safe and structured. And in universities, AI proctoring tools help monitor online exams by detecting unusual behavior and ensuring academic integrity.
 
-6. Conclusion (10–15 seconds) - Ali
-- AI is transforming education
-- Balance innovation with responsibility
-- The future: AI supporting—not replacing—teachers
+6. Conclusion (10–15 seconds)
 
+AI is transforming education in real time. But the real value is when innovation is balanced with responsibility. The future isn’t AI replacing teachers—it’s AI supporting teachers, personalizing learning, and helping every student succeed.
+
+**QUESTION(s) FOR OTHER GROUPS:**
+If AI became your study partner, how would it change the way you learn?
 
 **Deliverables Checklist**
 
 All items must be committed to the group's GitHub repository:
 
-- Research notes and source documentation
-- Video script or presentation outline
+- Research notes and source documentation - Done
+- Video script or presentation outline - Done
 - Visual slides or demonstration materials (if used) [PowerPoint](https://seneca-my.sharepoint.com/:p:/g/personal/ele4_myseneca_ca/IQD1i9pld-R1TYP49WuV2ZLVAXiv5Zwjoi1sygIuait7AWk?e=8gK3U3)
-- Code examples or AI tool demonstrations (if applicable)
-- Final video YouTube link 
-- Final discussion question for audience engagement
-- Evidence of collaboration (issues, commits, pull requests, etc.)
+- Code examples or AI tool demonstrations (if applicable) - Done
+- [Final video YouTube link](https://youtu.be/VwgUiUL3Ng0)
+- Final discussion question for audience engagement - Done
+- Evidence of collaboration (issues, commits, pull requests, etc.) - Done
