@@ -5,6 +5,18 @@ TOPIC: AI adoption in education
 AI in education refers to the use of intelligent technologies—like chatbots, adaptive learning systems, and automated assessment—to support teaching and learning. It matters today because classrooms are becoming more digital, student needs are more diverse, and educators face heavier workloads than ever. A recent study found that over 60% of students already use AI tools for learning, showing just how rapidly adoption is growing.
 
 2. Key Areas of AI Adoption in Education (60 seconds) - Lance
+
+AI adoption in education is accelerating fast, especially in a few standout areas. First, personalized learning has become incredibly powerful. Adaptive learning platforms adjust lessons in real time, giving each student content that matches their skill level, pace, and learning style. This helps struggling students get more support while letting advanced learners move ahead confidently
+
+Another huge area is administrative automation. AI tools are taking over time-consuming tasks like grading, scheduling, and admissions screening. This frees educators to focus more on teaching and student engagement instead of paperwork.
+
+Finally, intelligent tutoring systems are giving students 24/7 access to extra help. These AI tutors can explain concepts, give instant feedback, and guide students step-by-step—almost like having a private tutor available anytime.
+
+
+**Source**
+- Research of University on San Diego on Artificial Intelligence in Education
+
+
 - Pick 2–3 areas to keep it concise. For example:
 - a. Personalized Learning
 - Adaptive learning platforms
@@ -16,7 +28,7 @@ AI in education refers to the use of intelligent technologies—like chatbots, a
 - c. Intelligent Tutoring Systems
 AI tutors
 - 24/7 support for students
-  
+
 3. Benefits of AI in Education (30–40 seconds) - Komil
 - Improved learning outcomes
 - More inclusive learning (accessibility tools)
