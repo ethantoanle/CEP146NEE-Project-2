@@ -13,18 +13,14 @@ TOPIC: AI adoption in education
 AI in education refers to the use of intelligent technologies—like chatbots, adaptive learning systems, and automated assessment—to support teaching and learning. It matters today because classrooms are becoming more digital, student needs are more diverse, and educators face heavier workloads than ever. A recent study found that over 60% of students already use AI tools for learning, showing just how rapidly adoption is growing.
 
 2. Key Areas of AI Adoption in Education (60 seconds) - Lance
-- Pick 2–3 areas to keep it concise. For example:
-- a. Personalized Learning
-- Adaptive learning platforms
-- Tailored content and pacing
-- b. Administrative Automation
-- Grading automation
-- Scheduling, admissions screening
-- Reducing teacher workload
-- c. Intelligent Tutoring Systems
-AI tutors
-- 24/7 support for students
-  
+
+Artificial Intelligence is taking over the era as it is becoming the norm of having everything rely on technology. Due to this AI adoption in education is accelerating fast, especially in a few standout areas. First, personalized learning has become incredibly powerful. Adaptive learning platforms adjust lessons in real time, giving each student content that matches their skill level, pace, and learning style. This helps struggling students get more support while letting advanced learners move ahead confidently
+
+Another huge area is administrative automation. AI tools are taking over time-consuming tasks like grading, scheduling, and admissions screening. This frees educators to focus more on teaching and student engagement instead of paperwork.
+
+Finally, intelligent tutoring systems are giving students 24/7 access to extra help. These AI tutors can explain concepts, give instant feedback, and guide students step-by-step—almost like having a private tutor available anyti
+
+
 3. Benefits of AI in Education (30–40 seconds) - Komil
 
 AI has significantly improved learning outcomes by providing personalized learning, adapting lessons to each student’s pace, and giving instant feedback that helps learners understand mistakes faster. It also creates a more inclusive learning environment through accessibility tools like speech-to-text, text-to-speech, real-time translation, AI captioning, and screen readers, making education accessible for students with disabilities or language barriers. For teachers and institutions, AI enhances efficiency by automating routine tasks such as grading, attendance, and content creation. It can also analyze student performance data to identify who needs extra help, allowing teachers to focus more on real instruction and support. Schools also benefit from AI-powered scheduling and resource management, making the entire system more organized and effective.
@@ -52,10 +48,10 @@ If AI became your study partner, how would it change the way you learn?
 
 All items must be committed to the group's GitHub repository:
 
-- Research notes and source documentation
-- Video script or presentation outline
+- Research notes and source documentation - Done
+- Video script or presentation outline - Done
 - Visual slides or demonstration materials (if used) [PowerPoint](https://seneca-my.sharepoint.com/:p:/g/personal/ele4_myseneca_ca/IQD1i9pld-R1TYP49WuV2ZLVAXiv5Zwjoi1sygIuait7AWk?e=8gK3U3)
-- Code examples or AI tool demonstrations (if applicable)
-- Final video YouTube link 
-- Final discussion question for audience engagement
-- Evidence of collaboration (issues, commits, pull requests, etc.)
+- Code examples or AI tool demonstrations (if applicable) - Done
+- [Final video YouTube link](https://youtu.be/VwgUiUL3Ng0)
+- Final discussion question for audience engagement - Done
+- Evidence of collaboration (issues, commits, pull requests, etc.) - Done
